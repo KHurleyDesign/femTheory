@@ -131,8 +131,8 @@ h2 {
 
 a {
   font-style: italic;
-  background-color: #69f0ae;
-  color: black;
+  background-color: #01579b;
+  color: white;
   text-decoration: none;
 }
 
@@ -154,7 +154,7 @@ a {
   -ms-grid-row: 1;
   -ms-grid-row-span: 2;
   grid-row: 1/3;
-  color: #69f0ae;
+  color: #01579b;
   padding-bottom: 5%;
 }
 
@@ -215,8 +215,8 @@ a {
 }
 
 .linksLi li:hover {
-  -webkit-text-decoration: #69f0ae underline;
-          text-decoration: #69f0ae underline;
+  -webkit-text-decoration: #01579b underline;
+          text-decoration: #01579b underline;
 }
 
 @media screen and (min-width: 750px) {
@@ -462,7 +462,7 @@ p {
 }
 
 .bStyle {
-  background-color: #69f0ae;
+  background-color: #01579b;
   border: none;
   color: black;
   font-weight: 900;
